@@ -1,0 +1,12 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    background-color: rgb(11, 4, 19);
+}
+
+.nav {
+    background-color: rgb(255, 172, 172);
+}  
